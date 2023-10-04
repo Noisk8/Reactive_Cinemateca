@@ -8,16 +8,3 @@ src(s0)
   .out()
 
 
-
-
-24 FPS 
-
-HOrizontal 1920 x 1080 
-
-vertica
-
-
-1080 x 1920 
-
-
-1080 x 180 
